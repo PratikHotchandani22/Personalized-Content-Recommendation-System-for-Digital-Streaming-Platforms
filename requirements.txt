@@ -1,0 +1,6 @@
+gensim
+fuzzywuzzy
+sentence-transformers
+networkx
+pandas
+numpy
